@@ -1,2 +1,2 @@
 # Adaptation_dashboard
-Tkinter GUI to update all store all the task. with CRUD Feature
+Tkinter GUI to update and store all the task. with CRUD Feature
